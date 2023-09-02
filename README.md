@@ -124,7 +124,7 @@ Subheading: A subheading (h5) provides additional information, such as the expec
 
 Social Media Buttons: Several social media buttons are included, such as Twitter, Facebook, Dribbble, and GitHub. Each button is styled with background color, text color, shadow, and rounded corners. These buttons are intended to link to the respective social media profiles.
 
-Horizontal Line: A horizontal line (<hr>) is used to separate the content from the copyright information.
+Horizontal Line: A horizontal line (hr) is used to separate the content from the copyright information.
 
 Copyright Information: A copyright notice is displayed at the bottom of the footer, indicating the website's name and copyright year. It uses text styling to appear as a small and light gray text.
 
